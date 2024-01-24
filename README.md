@@ -45,3 +45,4 @@ Este projeto está licenciado sob a [MIT License] - veja o arquivo [LICENSE.md](
 ## Observação
 
 Front end feito por Bouali Ali.
+Eu apenas traduzi o front para PT-BR.
